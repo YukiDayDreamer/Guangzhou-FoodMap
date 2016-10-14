@@ -10,9 +10,9 @@ Similar to Esri Story Map, there are 3 views of pages: List, Map, and Details.
 
 This app also simulates some animations in the Esri Story Map:
 
-- In the Map View, click icon on the map or swipe the introduction could trigger the switch of different items, while click the introduction would redirect to its Details View
-- In the Details View, swipe would trigger the switch of different items as well
-- In the List View, click item would redirect to its Details View
+- In the **Map View**, click icon on the map or swipe the introduction could trigger the switch of different items, while click the introduction would redirect to its Details View
+- In the **Details View**, swipe would trigger the switch of different items as well
+- In the **List View**, click item would redirect to its Details View
 
 From Left to Right: List View, Map View, Details View
 
