@@ -22,6 +22,4 @@ Also it could embed another information map in the Details View:
 
 ![Inner Map](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/innerMap.png)
 
-
-
 Enjoy!
