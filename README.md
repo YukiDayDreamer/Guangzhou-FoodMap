@@ -19,9 +19,9 @@ From Left to Right: List View, Map View, Details View
 ![Main](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/views.png)
 
 Also it could embed another information map in the Details View:
-<p align="center">
+
 ![Inner Map](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/innerMap.png)
-</p>
+
 
 
 Enjoy!
