@@ -14,17 +14,9 @@ This app also simulates some animations in the Esri Story Map:
 - In the Details View, swipe would trigger the switch of different items as well
 - In the List View, click item would redirect to its Details View
 
-Main Map View:
+From Left to Right: List View, Map View, Details View
 
-![Main](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/main.png)
-
-Details View:
-
-![Details 2](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/detail2.png)
-
-List View:
-
-![List](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/list.png)
+![Main](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/views.png)
 
 Also it could embed another information map in the Details View:
 
