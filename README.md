@@ -6,4 +6,29 @@ Guangzhou is famous for its food in China. The original idea of this project is 
 
 This mobile web app is arranged in the style of Esri Story Maps and with extra information about the rating, price, and more!
 
+Similar to Esri Story Map, there are 3 views of pages: List, Map, and Details.
+
+This app also simulates some animations in the Esri Story Map:
+
+- In the Map View, click icon on the map or swipe the introduction could trigger the switch of different items, while click the introduction would redirect to its Details View
+- In the Details View, swipe would trigger the switch of different items as well
+- In the List View, click item would redirect to its Details View
+
+Main Map View:
+
+![Main](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/main.png)
+
+Details View:
+
+![Details 2](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/detail2.png)
+
+List View:
+
+![List](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/list.png)
+
+Also it could embed another information map in the Details View:
+
+![Details 1](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/detail1.png)
+
+
 Enjoy!
