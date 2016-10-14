@@ -20,7 +20,7 @@ From Left to Right: List View, Map View, Details View
 
 Also it could embed another information map in the Details View:
 
-![Details 1](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/detail1.png)
+![Inner Map](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/innerMap.png)
 
 
 Enjoy!
