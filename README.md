@@ -22,4 +22,8 @@ Also it could embed another information map in the Details View:
 
 ![Inner Map](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/innerMap.png)
 
+For the content editing, there is a dashboard for the editor:
+
+![Editor](https://github.com/YukiDayDreamer/Guangzhou-FoodMap/blob/master/README/editor.png)
+
 Enjoy!
